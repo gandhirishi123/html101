@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+ul, ol {
+    border: 10px outset gray;
+    margin-left: 0%;
+  }
+.input[type="button"]:after {
+    border: 20px solid red;
+}
+.submit:hover {
+    background-color: green;
+    color: black;
+  }
